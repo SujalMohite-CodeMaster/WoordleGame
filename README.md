@@ -2,7 +2,7 @@
 
 A **command-line implementation** of the popular Wordle game, built with Core Java. Guess the hidden word within 6 attempts, with feedback for correct/incorrect letters!
 
-![Demo Screenshot]() *(Add a screenshot later if possible)*
+![Demo Screenshot](https://github.com/SujalMohite-CodeMaster/WoordleGame/blob/master/src/Screenshot%202025-06-23%20102944.png)
 
 ## 🛠️ Technologies Used
 - **Core Java** (OOPs, Collections, File I/O)
